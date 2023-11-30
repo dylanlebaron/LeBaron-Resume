@@ -6,17 +6,20 @@ title: Isaac Newtons's CV
 
 <div id="webaddress">
 <a href="www.linkedin.com/in/dylan-lebaron/">https://www.linkedin.com/in/dylan-lebaron/</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+| <a href="https://www.mavenanalytics.io/profile/Dylan-LeBaron/163105532">My Portfolio</a>
 </div>
 
 
-## Currently
+## Summary
 
-Standing on the shoulders of giants
+Seasoned data analyst skilled in deriving actionable insights from intricate datasets. Strong communicator and collaborative team player. Experienced in statistical analysis, data manipulation, and visualization, with a knack for translating data into strategic insights. Adept in SQL, Power BI, and Excel for informed decision-making. Eager to leverage analytical expertise in diverse data analyst roles.
 
-### Specialized in
+## Education
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Brigham Young University - Idaho
+Idaho
+B.S. Business Analytics, Minor: Finance, GPA 3.79
+April 2024
 
 
 ### Research interests
