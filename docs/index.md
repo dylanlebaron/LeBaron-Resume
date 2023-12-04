@@ -1,89 +1,67 @@
 ---
-layout: cv
-title: Brigham Young's Resume
+layout: resume
+title: Dylan LeBaron's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
 
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
+<p style="font-size: 12px;">
+    949.621.3394 | <a href="mailto:dylantlebaron@gmail.com">dylantlebaron@gmail.com</a> |
+    <a href="https://www.linkedin.com/in/dylan-lebaron" target="_blank">LinkedIn</a>
+</p>
 
-<!-- https://www.monique.tech/the-art-of-markdown -->
+
+## Summary
+
+Seasoned data analyst skilled in deriving actionable insights from intricate datasets. Strong communicator and collaborative team player. Experienced in statistical analysis, data manipulation, and visualization, with a knack for translating data into strategic insights. Adept in SQL, Power BI, and Excel for informed decision-making. Eager to leverage analytical expertise in diverse data analyst roles.
 
 ## Education
+**Brigham Young University - Idaho** <span style="float: right;">Idaho</span><br>
+B.S. Business Analytics, Minor: Finance, GPA 3.79 <span style="float: right;">April 2024</span>
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+## Skills and Accomplishments
+* R – Data Wrangling & Visualization, Statistics
+* SQL – Joins, Windows Functions, CTE’s, Data Mining
+* Power BI – DAX, Power Query M, Modeling
+* Microsoft Excel – Lookups, Pivots, Macros
 
-- Full academic scholarship with 4.0 GPA
+## Professional Experience
+**Brigham Young University - Idaho** <span style="float: right; font-style: italic;">Rexburg, Idaho</span><br>
+<span style="float: left; font-style: italic;">Part-Time Data Analyst</span> <span style="float: right; font-style: italic;">April 2023 - Present</span><br>
+<ul>
+  <li>Verified accuracy of data model, through data visualization, for a report that provides actionable insights from course evaluation surveys for faculty in 25 college departments</li>
+  <li>Utilized Power BI to create a visually appealing and interactive dashboard for associate university VP and facilities manager to coordinate the use of campus space for graduation ceremonies</li>
+  <li>Collaborated with data analysts to develop SQL queries that extract, manipulate, and aggregate Qualtrics survey data collected from about 2,000 alumni annually</li>
+</ul>
 
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
+**Melaleuca: The Wellness Company** <span style="float: right; font-style: italic;">Rexburg, Idaho</span><br>
+<span style="float: left; font-style: italic;">Hot Shot Coordinator</span> <span style="float: right; font-style: italic;">July 2022 - April 2023</span><br>
+<ul>
+  <li>Led a team of 7 representatives to uphold standards of world-class customer service</li>
+  <li>Presented monthly team meetings to provide training on quarterly focuses</li>
+  <li>Teamed up with 4 coordinators to create and run monthly promotions during team members' shifts</li>
+  <li>Created an Excel dashboard with employee KPI’s for call center managers to use for internal recruiting</li>
+</ul>
 
-- 4.0 Major GPA
+## Projects
+**Freshman Experience and Retention Analysis in University Department** <br>
+<span style="float: left; font-style: italic;">BYU-I Institutional Data & Analysis Services</span><br>
+<ul>
+  <li>Led data analysis initiative, utilizing SQL queries and Power BI, to assess the impact of a 2020 program revamp on freshman experience and retention rates</li>
+  <li>Employed EDA (Exploratory Data Analysis) techniques, including visualizations and DAX measures, to uncover insights</li>
+  <li>Identified a unique deviation in major changes during Fall 2022 and highlighted a connection between course selection and retention</li>
+</ul>
 
+**Average Handle Time Tool** <br>
+<span style="float: left; font-style: italic;">Melaleuca: The Wellness Company</span><br>
+<ul>
+  <li>Performed extensive formulas to provide the number of calls over/under a given call length, the employee’s average handle time, and percentage of calls within a given minute with a graphic visual for 19 employees in Microsoft Excel</li>
+  <li>Presented in a training meeting with 30+ employees to encourage better average handle time habits and understanding</li>
+  <li>Improved yearly average handle time metric by 2.3%</li>
+</ul>
 
-## Related Experience
-
-### Internships
-
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
-
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
-
-### Data Science Lead
-
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
-
-
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
-
+## Leadership Experience
+**Finland Helsinki Mission Volunteer** <span style="float: right; font-style: italic;">Helsinki, Finland</span><br>
+<span style="float: left; font-style: italic;">Zone Leader</span> <span style="float: right; font-style: italic;">March 2020 - August 2020</span><br>
+<ul>
+  <li>Directed a team of approximately 30 missionaries by managing weekly reports and collaborating with 4 District Leaders</li>
+  <li>Organized conferences every 6 weeks for training, enhancing mission operations and leadership</li>
+</ul>
